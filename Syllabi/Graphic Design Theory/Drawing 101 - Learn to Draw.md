@@ -78,18 +78,96 @@ Finally, I look forward to working with you this semester. Don’t hesitate to l
 ### Drawing 101, Adrian Cunanan, Instructor
 #### *All readings are found in "You Can Draw in 30 Days" unless otherwise indicated.*
 
-Week 1
+#### Week 1
 
-TBD
+ - Day 1 (Monday)
+  - Lesson 1: The Sphere
+ - Day 2 (Tuesday)
+  - Lesson 2: Overlapping Spheres
+  - *Office Hours with Adrian*
+ - Day 3 (Wednesday)
+  - Lesson 3: Advanced-Level Spheres
+ - Day 4 (Thursday)
+  - Lesson 4: The Cube
+ - Day 5 (Friday)
+  - Lesson 5: Hollow Cubes
+ - Day 6 (Saturday)
+  - Lesson 6: Stacking Tables
+  - Show & Tell Project - Compile work from the week into presentation for critique.  Be ready to explain your process!
+ - Day 7 (Sunday)
+  - Lesson 7: Advanced-Level Cubes
+  - Extra Credit: TBD
 
-Week 2
+#### Week 2
 
-TBD
+ - Day 8 (Monday)
+  - Lesson 8: Cool Koalas
+  - Show & Tell Presentation
+ - Day 9 (Tuesday)
+  - Lesson 9: The Rose
+  - *Office Hours with Adrian*
+ - Day 10 (Wednesday)
+  - Lesson 10: The Cylinder
+ - Day 11 (Thursday)
+  - Lesson 11: Advanced-Level Cylinders
+ - Day 12 (Friday)
+  - Lesson 12: Constructing with Cubes
+ - Day 13 (Saturday)
+  - Lesson 13: Advanced-Level Houses
+  - Show & Tell Project - Compile work from the week into presentation for critique.  Be ready to explain your process!
+ - Day 14 (Sunday)
+  - Lesson 14: The Lily
+  - Extra Credit: TBD
 
-Week 3
+#### Week 3
 
-TBD
+ - Day 15 (Monday)
+  - Lesson 15: Contour Tubes
+  - Show & Tell Presentation
+ - Day 16 (Tuesday)
+  - Lesson 16: The Wave
+  - *Office Hours with Adrian*
+ - Day 17 (Wednesday)
+  - Lesson 17: Rippling Flags
+ - Day 18 (Thursday)
+  - Lesson 18: The Scroll
+ - Day 19 (Friday)
+  - Lesson 19: Pyramids
+ - Day 20 (Saturday)
+  - Lesson 20: Volcanoes, Craters, and a Cup of Coffee
+  - Show & Tell Project - Compile work from the week into presentation for critique.  Be ready to explain your process!
+ - Day 21 (Sunday)
+  - Lesson 21: Trees
+  - Extra Credit: TBD
 
-Week 4
+#### Week 4
 
-TBD
+ - Day 22 (Monday)
+  - Lesson 22: A Room in One-Point Perspective
+  - Show & Tell Presentation
+ - Day 23 (Tuesday)
+  - Lesson 23: A City in One-Point Perspective
+  - *Office Hours with Adrian*
+ - Day 24 (Wednesday)
+  - Lesson 24: A Tower in Two-Point Perspective
+ - Day 25 (Thursday)
+  - Lesson 25: A Castle in Two-Point Perspective
+ - Day 26 (Friday)
+  - Lesson 26: A City in Two-Point Perspective
+ - Day 27 (Saturday)
+  - Lesson 27: Lettering in Two-Point Perspective
+  - Show & Tell Project - Compile work from the week into presentation for critique.  Be ready to explain your process!
+ - Day 28 (Sunday)
+  - Lesson 28: The Human Face
+  - Extra Credit: TBD
+
+#### Week 5
+
+ - Day 29 (Monday)
+  - Lesson 29: The Human Eye of Inspiration
+  - Show & Tell Presentation
+ - Day 30 (Tuesday)
+  - Lesson 30: Your Hand of Creativity
+  - *Office Hours with Adrian*
+ - Day 31 (Wednesday)
+  - Retrospective
