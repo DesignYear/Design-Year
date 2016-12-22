@@ -36,17 +36,17 @@ Drawing is an acquired skill, not a talent--anyone can learn to draw. All you ne
 
 Drawing 101, you will have the opportunity to:
 
-1) complete 30 drawing lessons
-2) reflect on your own processes of drawing;
-3) set appropriate goals for improving your drawing skills and devise effective plans for achieving those goals;
-4) contribute your voice to critical conversations already in progress;
-5) learn how to give and take constructive critique of writing in progress;
-6) collaborate with peers to define revision strategies for particular drawing pieces;
-7) focus on revision as a creative and intellectual process.
+1. Complete 30 drawing lessons;
+2. reflect on your own processes of drawing;
+3. set appropriate goals for improving your drawing skills and devise effective plans for achieving those goals;
+4. contribute your voice to critical conversations already in progress;
+5. learn how to give and take constructive critique of writing in progress;
+6. collaborate with peers to define revision strategies for particular drawing pieces;
+7. focus on revision as a creative and intellectual process.
 
 ### Texts (available at Amazon.com)
 
-1) You Can Draw in 30 Days: The Fun, Easy Way to Learn to Draw in One Month or Less by Mark Kistler
+1. You Can Draw in 30 Days: The Fun, Easy Way to Learn to Draw in One Month or Less by Mark Kistler
 
 ### Course Policies
 
