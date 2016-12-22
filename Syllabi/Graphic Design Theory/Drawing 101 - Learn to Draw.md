@@ -46,7 +46,7 @@ Drawing 101, you will have the opportunity to:
 
 ### Texts (available at Amazon.com)
 
-1. You Can Draw in 30 Days: The Fun, Easy Way to Learn to Draw in One Month or Less by Mark Kistler
+1. You Can Draw in 30 Days: The Fun, Easy Way to Learn to Draw in One Month or Less by Mark Kistler ([Kindle](http://amzn.to/2hXILRz) | [Paperback](http://amzn.to/2h0x9LK))
 
 ### Course Policies
 
