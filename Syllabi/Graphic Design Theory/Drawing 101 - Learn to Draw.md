@@ -1,8 +1,4 @@
-> Drawing is the foundational skill of all graphic design. Learning to solve design problems with a pencil is the training we need to be able solve problems most effectively with the digital approximation tools of in the palettes of our favorite design applications. But some designers get by without drawing...
->
-> All the elements of design are rooted in drawing, as is painting. Drawing is the fundamental skill of visual artists of any stripe. The better we draw, the better we paint, and the better we design, because drawing contains all the problems and pitfalls we must overcome as designers. If we never fully deal with the problems with a pencil, we never fully solve our graphic design issues with much cruder tools. 
->
->-["Why graphic designers should learn to draw" by Douglas Bonneville](http://bonfx.com/why-graphic-designers-should-learn-to-draw/)
+![Drawing Fundamentals Image](../../Assets/Images/Drawing 101.jpg)
 
 # Graphic Design Theory: Drawing 101 - Learn to Draw
 
@@ -16,9 +12,13 @@ Office Location: [office.designyear.com](http://office.designyear.com)
 
 Email Address: [adrian@designyear.com](mailto:%20adrian@designyear.com)
 
----
-
 ### Course Description
+
+> Drawing is the foundational skill of all graphic design. Learning to solve design problems with a pencil is the training we need to be able solve problems most effectively with the digital approximation tools of in the palettes of our favorite design applications. But some designers get by without drawing...
+>
+> All the elements of design are rooted in drawing, as is painting. Drawing is the fundamental skill of visual artists of any stripe. The better we draw, the better we paint, and the better we design, because drawing contains all the problems and pitfalls we must overcome as designers. If we never fully deal with the problems with a pencil, we never fully solve our graphic design issues with much cruder tools. 
+>
+>-["Why graphic designers should learn to draw" by Douglas Bonneville](http://bonfx.com/why-graphic-designers-should-learn-to-draw/)
 
 Drawing is the foundation of great design.  Putting pen to paper is the first step in the realization of any idea!  We will start our journey with learning to draw.
 
