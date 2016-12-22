@@ -1,6 +1,7 @@
 ![enter image description here](https://cdn-images-1.medium.com/max/2000/1*nYJCEmrr0C233RL8FFWFFg.jpeg)
 
 # Design Year
+
 #### *An Invitation to Create*
 
 As each year comes to a close, the new year brings an opportunity for a blank canvas when it come to goals and resolutions.

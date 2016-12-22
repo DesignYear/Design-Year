@@ -2,7 +2,7 @@
 
 # The Plan
 
-####* Bookending Your Days*
+#### *Bookending Your Days*
 
 >“You’re the first thing I think of when I wake up and the last thing when I go to sleep. You’re my sun and moon and stars, my past and present-and I hope you’ll be my future.” — A.G. Henley, The Scourge
 
