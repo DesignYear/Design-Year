@@ -40,7 +40,7 @@ Drawing 101, you will have the opportunity to:
 2. reflect on your own processes of drawing;
 3. set appropriate goals for improving your drawing skills and devise effective plans for achieving those goals;
 4. contribute your voice to critical conversations already in progress;
-5. learn how to give and take constructive critique of writing in progress;
+5. learn how to give and take constructive critique of works in progress;
 6. collaborate with peers to define revision strategies for particular drawing pieces;
 7. focus on revision as a creative and intellectual process.
 
