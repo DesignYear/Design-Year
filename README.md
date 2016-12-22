@@ -40,7 +40,7 @@ You get a design education and community that are world-class!
 
 At the end of the year,  you will:
 
- - Understand the key concepts of design
+ - Understand the [key concepts of design](The Curriculum.md)
  - Have a portfolio geared towards career advancement
  - Expanded your network within a community of creators
 
