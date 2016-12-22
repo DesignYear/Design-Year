@@ -68,7 +68,7 @@ If you are going to steal then steal like an artist ;-)
 
 ### Finally
 
-Finally, I look forward to working with you this semester. Don’t hesitate to let me know if you have questions—that’s often the only way I know that I need to be more clear. Please see me or email me if you require special accommodations due to learning disabilities, religious practices, physical requirements, medical needs, or any other reasons.
+Finally, I look forward to working with you through this process. Don’t hesitate to let me know if you have questions—that’s often the only way I know that I need to be more clear. Please see me or email me if you require special accommodations due to learning disabilities, religious practices, physical requirements, medical needs, or any other reasons.
 
 > The roots of education are bitter, but the fruit is sweet. Quality is not an act, it is a habit. It is the mark of an educated mind to be able to entertain a thought without accepting it. 
 >
