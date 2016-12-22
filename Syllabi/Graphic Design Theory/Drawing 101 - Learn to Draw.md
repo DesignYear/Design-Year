@@ -74,7 +74,7 @@ Finally, I look forward to working with you this semester. Don’t hesitate to l
 >
 >–Aristotle
 
-## Schedule of Reading and Writing Assignments
+## Schedule of Drawing Assignments
 ### Drawing 101, Adrian Cunanan, Instructor
 #### *All readings are found in "You Can Draw in 30 Days" unless otherwise indicated.*
 
