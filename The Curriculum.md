@@ -2,7 +2,7 @@
 
 #### *The Ultimate List of Online Design Learning References*
 
-![enter image description here](https://cdn-images-1.medium.com/max/800/1*Z8fymMiHDBoHqrtjPXk7Mg.png)
+![MindMap of Simple Curriculum](https://cdn-images-1.medium.com/max/800/1*Z8fymMiHDBoHqrtjPXk7Mg.png)
 
 *Make Learning Design Simple Through Curation*
 
@@ -136,7 +136,7 @@
  
 ## Google Results for “Learn Design”
 
-![enter image description here](https://cdn-images-1.medium.com/max/800/1*N0v4T7e7Q4_KhkQMjBr4kg.png)
+![MindMap of Detailed Curriculum](https://cdn-images-1.medium.com/max/800/1*N0v4T7e7Q4_KhkQMjBr4kg.png)
 
 *MindMap of Results from 1st Page of Google Search Results for “Learn Design”*
 
