@@ -1,6 +1,6 @@
 ![Drawing Fundamentals Image](../../Assets/Images/Drawing 101.jpg)
 
-# Graphic Design Theory: Drawing 101 - Learn to Draw
+# Drawing 101 - Learn to Draw
 
 ##Course Syllabus
 
