@@ -4,14 +4,6 @@
 
 ##Course Syllabus
 
-Instructor: Adrian Cunanan
-
-Office Hours: Tuesdays, 8:00 PM - 9:00 PM ET, and by appointment
-
-Office Location: [office.designyear.com](http://office.designyear.com)
-
-Email Address: [adrian@designyear.com](mailto:%20adrian@designyear.com)
-
 ### Course Description
 
 > Drawing is the foundational skill of all graphic design. Learning to solve design problems with a pencil is the training we need to be able solve problems most effectively with the digital approximation tools of in the palettes of our favorite design applications. But some designers get by without drawing...
@@ -34,7 +26,7 @@ Drawing is an acquired skill, not a talent--anyone can learn to draw. All you ne
 
 ### Course Goals
 
-Drawing 101, you will have the opportunity to:
+In Drawing 101, you will have the opportunity to:
 
 1. Complete 30 drawing lessons;
 2. reflect on your own processes of drawing;
@@ -75,7 +67,6 @@ Finally, I look forward to working with you through this process. Don’t hesita
 >–Aristotle
 
 ## Schedule of Drawing Assignments
-### Drawing 101, Adrian Cunanan, Instructor
 #### *All readings are found in "You Can Draw in 30 Days" unless otherwise indicated.*
 
 #### Week 1
@@ -84,7 +75,6 @@ Finally, I look forward to working with you through this process. Don’t hesita
   - Lesson 1: The Sphere
  - Day 2 (Tuesday)
   - Lesson 2: Overlapping Spheres
-  - *Office Hours with Adrian*
  - Day 3 (Wednesday)
   - Lesson 3: Advanced-Level Spheres
  - Day 4 (Thursday)
@@ -105,7 +95,6 @@ Finally, I look forward to working with you through this process. Don’t hesita
   - Show & Tell Presentation
  - Day 9 (Tuesday)
   - Lesson 9: The Rose
-  - *Office Hours with Adrian*
  - Day 10 (Wednesday)
   - Lesson 10: The Cylinder
  - Day 11 (Thursday)
@@ -126,7 +115,6 @@ Finally, I look forward to working with you through this process. Don’t hesita
   - Show & Tell Presentation
  - Day 16 (Tuesday)
   - Lesson 16: The Wave
-  - *Office Hours with Adrian*
  - Day 17 (Wednesday)
   - Lesson 17: Rippling Flags
  - Day 18 (Thursday)
@@ -147,7 +135,6 @@ Finally, I look forward to working with you through this process. Don’t hesita
   - Show & Tell Presentation
  - Day 23 (Tuesday)
   - Lesson 23: A City in One-Point Perspective
-  - *Office Hours with Adrian*
  - Day 24 (Wednesday)
   - Lesson 24: A Tower in Two-Point Perspective
  - Day 25 (Thursday)
@@ -168,6 +155,5 @@ Finally, I look forward to working with you through this process. Don’t hesita
   - Show & Tell Presentation
  - Day 30 (Tuesday)
   - Lesson 30: Your Hand of Creativity
-  - *Office Hours with Adrian*
  - Day 31 (Wednesday)
   - Retrospective
